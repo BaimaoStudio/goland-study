@@ -1,5 +1,7 @@
 package main
 
+import "stutytest/utils"
+
 func main() {
 	//utils.Helloworld()
 	//utils.Value()
@@ -15,5 +17,7 @@ func main() {
 	//utils.Pointer()
 	//utils.Obj()
 	//utils.Inter()
-
+	//utils.Goroutines()
+	//utils.Channel()
+	utils.Select()
 }
